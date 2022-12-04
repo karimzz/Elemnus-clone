@@ -34,3 +34,10 @@ btnSign.addEventListener("click" , ()=>{
 
 
 // End Overlay
+
+
+document.querySelector(".btn2").onclick = ()=>{
+
+    location.replace("../offer.html") ; 
+
+}
