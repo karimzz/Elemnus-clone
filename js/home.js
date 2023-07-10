@@ -38,6 +38,6 @@ btnSign.addEventListener("click" , ()=>{
 
 document.querySelector(".btn2").onclick = ()=>{
 
-    location.replace("../offer.html") ; 
+    location.replace("https://karimzz.github.io/Elemnus-clone/cart.html") ; 
 
 }
